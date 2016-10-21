@@ -1,0 +1,13 @@
+[
+ {
+  "Title": "Teste"
+  , "Description": "Teste vaga."
+  , "Opened": "2016-10-21"
+  , "Closed": ""
+  , "AnnouncedBy": "Calil"
+  , "Company": {
+   "Name": "Empresa"
+   , "Site": "#"
+  }
+ }
+]
